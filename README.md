@@ -1,5 +1,4 @@
 # login-registration
-login-registration
 
 git clone https://github.com/furkanbilgic/login-registration.git
 
