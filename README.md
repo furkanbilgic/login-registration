@@ -1,11 +1,6 @@
 # login-registration
 login-registration
 
-Prerequisite:
-Node.js installed
-How to install:
-In terminal:
-
 git clone https://github.com/furkanbilgic/login-registration.git
 
 mvn clean install
